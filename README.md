@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently a second-year student engineer at the National School of Geographical Sciences in <b>France</b>
 
-<p align="left"><br>📚 I'm learning web development and computer science ! 
+<p align="left"><br>📚 I'm learning web development and computer science! 
   <br>✨ I never give up on any project I undertake and I always aim for the highest quality possible. 
   <br>🐣 I like to help my classmates or new students who are pursuing the same education as me because at their place I would have like that someone could help me like that.
   <br>😇 Nothing makes me happier in my studies than working on projects. I find it very rewarding to do work that is truly meaningful and that has a real application. This motivates me greatly.
