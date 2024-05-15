@@ -12,7 +12,7 @@
   <br>🐣 I like to help my classmates or new students who are pursuing the same education as me because at their place I would have like that someone could help me like that.
   <br>😇 Nothing makes me happier in my studies than working on projects. I find it very rewarding to do work that is truly meaningful and that has a real application. This motivates me greatly.
   <br>💖 I always take a real pleasure in finding solutions and solving problems in the code I write.
-  <br>🎯 All in all, I want to work on projects that have a real-world impact !</p>
+  <br>🎯 All in all, I want to work on projects that have a real-world impact!</p>
   
 ###
 
