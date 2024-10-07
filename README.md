@@ -5,7 +5,7 @@
 
 ###
 
-- 🌱 I’m currently a second-year student engineer at the National School of Geographical Sciences in <b>France</b>
+- 🌱 I’m currently a third-year student engineer at the National School of Geographical Sciences in <b>France</b>
 
 <p align="left"><br>📚 I'm learning web development and computer science! 
   <br>✨ I never give up on any project I undertake and I always aim for the highest quality possible. 
